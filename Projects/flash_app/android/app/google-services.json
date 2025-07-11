@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332029387106",
+    "project_id": "flash-app---latest",
+    "storage_bucket": "flash-app---latest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332029387106:android:e0b47c043944ec63b68c3b",
+        "android_client_info": {
+          "package_name": "com.example.flash_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIE_NMyQnRIKaFTDDzH8U3vCAUXNqdyjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
